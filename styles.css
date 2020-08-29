@@ -1,0 +1,31 @@
+body {
+    background-color: #e8ded2;
+    color: #5eaaa8;
+    text-align: center;
+}
+
+.content {
+    padding: 100px;
+}
+
+.title {
+    font-family: 'Lobster', cursive;
+    font-size: 7rem;
+}
+
+.left {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.right {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.player {
+    font-family: 'Indie Flower', cursive;
+    font-weight: bold;
+    font-size: 3rem;
+}
+
